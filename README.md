@@ -1,5 +1,7 @@
 # make-everyone-happy
 
+One prompt result... (thought I might as wel share it)
+
 low-tech local browser app: personas with hand-drawn faces react (smile / frown)
 to the axes you toggle in projects.
 
@@ -27,3 +29,8 @@ needed (js-yaml is vendored).
     app.js         state, happiness math, yaml import/export
     drawing.js     canvas drawing + dynamic mouth renderer
     js-yaml.min.js vendored yaml library (MIT)
+
+
+## Attribution
+
+AIA Primarily AI, Human-initiated, glm-5.3 v1.0
